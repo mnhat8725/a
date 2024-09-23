@@ -1,0 +1,38 @@
+body{
+    background-image:linear-gradient(rgb(247, 244, 244) )
+background-repeat: no-repeat;
+}
+.container{
+background-color: aliceblue;
+width: 90%;
+margin: 0 auto;
+}
+.Header{
+background-color: aqua;
+height: 100px;
+}
+.Left{
+background-color: aquamarine;
+height: 500px;
+width: 20%;
+float: left;
+}
+.Main{
+background-color: beige;
+height: 500px;
+width: 60%;
+float: left;
+border: 1px solid black;
+box-sizing: border-box;
+}
+.Right{
+background-color: rgb(82, 82, 151);
+height:500px;
+width: 20%;
+float: left;
+}
+.Footer{
+background-color: rgb(224, 134, 134);
+height: 100px;
+clear: both;
+}
